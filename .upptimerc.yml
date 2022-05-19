@@ -5,8 +5,12 @@ repo: yeetum-uptime # The name of this repository
 sites:
   - name: Yeetum.com
     url: https://yeetum.com
-  - name: Yeetum Vault
+  - name: knowledge Vault
     url: https://vault.yeetum.com
+  - name: Documentation
+    url: https://docs.yeetum.com
+  - name: Merch Shop
+    url: https://shop.yeetum.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
