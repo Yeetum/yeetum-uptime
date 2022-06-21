@@ -4,19 +4,19 @@
     "url": "https://yeetum.com",
     "icon": "https://favicons.githubusercontent.com/yeetum.com",
     "slug": "yeetum-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 372,
-    "timeDay": 5226,
-    "timeWeek": 1422,
-    "timeMonth": 470,
-    "timeYear": 372,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
+    "time": 368,
+    "timeDay": 3542,
+    "timeWeek": 1283,
+    "timeMonth": 461,
+    "timeYear": 368,
     "dailyMinutesDown": {
-      "2022-06-21": 0
+      "2022-06-21": 21
     }
   },
   {
